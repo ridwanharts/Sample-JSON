@@ -1,0 +1,89 @@
+{
+    "latitude": -7.2,
+    "longitude": 110.81,
+    "data": [{
+            "name": "Berkah Laundry",
+            "address": "Condong Catur",
+            "service": ["Baju", "Kaos", "Tas"],
+            "date": 2019,
+            "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+        },
+        {
+            "name": "Sarjana Laundry",
+            "address": "Maguwoharjo",
+            "service": ["Sepatu", "Jas", "Selimut"],
+            "date": 2012,
+            "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+        },
+        {
+            "name": "Pojok Mentok Laundry",
+            "address": "Babarsari",
+            "service": ["Baju", "Tas", "Sepatu"],
+            "date": 2016,
+            "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+        },
+        {
+            "name": "1Berkah Laundry",
+            "address": "Condong Catur",
+            "service": ["Baju", "Kaos", "Tas"],
+            "date": 2019,
+            "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+        },
+        {
+            "name": "1Sarjana Laundry",
+            "address": "Maguwoharjo",
+            "service": ["Sepatu", "Jas", "Selimut"],
+            "date": 2012,
+            "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+        },
+        {
+            "name": "1Pojok Mentok Laundry",
+            "address": "Babarsari",
+            "service": ["Baju", "Tas", "Sepatu"],
+            "date": 2016,
+            "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+        },
+        {
+            "name": "2Berkah Laundry",
+            "address": "Condong Catur",
+            "service": ["Baju", "Kaos", "Tas"],
+            "date": 2019,
+            "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+        },
+        {
+            "name": "2Sarjana Laundry",
+            "address": "Maguwoharjo",
+            "service": ["Sepatu", "Jas", "Selimut"],
+            "date": 2012,
+            "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+        },
+        {
+            "name": "2Pojok Mentok Laundry",
+            "address": "Babarsari",
+            "service": ["Baju", "Tas", "Sepatu"],
+            "date": 2016,
+            "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+        },
+        {
+            "name": "3Berkah Laundry",
+            "address": "Condong Catur",
+            "service": ["Baju", "Kaos", "Tas"],
+            "date": 2019,
+            "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+        },
+        {
+            "name": "3Sarjana Laundry",
+            "address": "Maguwoharjo",
+            "service": ["Sepatu", "Jas", "Selimut"],
+            "date": 2012,
+            "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+        },
+        {
+            "name": "3Pojok Mentok Laundry",
+            "address": "Babarsari",
+            "service": ["Baju", "Tas", "Sepatu"],
+            "date": 2016,
+            "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+        }
+    ]
+}
