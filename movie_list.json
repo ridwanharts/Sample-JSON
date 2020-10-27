@@ -1,16 +1,13 @@
-{
-    {
-            "name": "Berkah Laundry",
-            "address": "Condong Catur",
-            "service": ["Baju", "Kaos", "Tas"],
-            "date": 2019,
-            "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
-        },
-        {
-            "name": "Sarjana Laundry",
-            "address": "Maguwoharjo",
-            "service": ["Sepatu", "Jas", "Selimut"],
-            "date": 2012,
-            "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
-        }
-}
+[
+  {
+    "title": "Berkah Laundry",
+    "image": "Condong Catur",
+    "description": "Desc"
+  },
+  {
+    "title": "Berkah App",
+    "image": "Bantul",
+    "description": "Desc"
+  },
+  
+]
